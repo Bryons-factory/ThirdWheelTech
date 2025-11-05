@@ -1,0 +1,2 @@
+source /home/matt/Project/CHardware/ThirdWheelTech/build/bootloader/gdbinit/symbols
+source /home/matt/Project/CHardware/ThirdWheelTech/build/bootloader/gdbinit/connect
